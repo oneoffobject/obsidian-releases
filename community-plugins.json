@@ -20294,9 +20294,9 @@
   },
   {
     "id": "dynalist-mover",
-    "name": "Dynalist Mover",
+    "name": "Dynalist-Style Moves",
     "author": "oneoffobject",
-    "description": "Move selected lines up and down like Dynalist. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Renamed from Dynalist Mover. Move selected lines up or down while preserving selection, with optional parent-and-child movement. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "oneoffobject/dynalist-mover"
   },
   {
